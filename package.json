@@ -1,11 +1,11 @@
 {
-  "name": "react-native-pocket",
-  "version": "0.1.0",
-  "description": "React Native Pocket & UI Toolkit",
+  "name": "react-native-epic",
+  "version": "0.0.1",
+  "description": "React Native Epic Components",
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/azertys/pocket-react.git"
+    "url": "git+ssh://git@github.com:hetmann/react-native-epic.git"
   },
   "keywords": [
     "react-native",
@@ -13,17 +13,17 @@
     "reactnative",
     "bootstrap"
   ],
-  "author": "EpicPxls",
+  "author": "EpicPxls - updated by Hetmann W. Iohan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/azertys/pocket-react/issues"
+    "url": "https://github.com/hetmann/react-native-epic/issues"
   },
   "rnpm": {
     "assets": [
       "./src/fonts/"
     ]
   },
-  "homepage": "https://github.com/azertys/pocket-react#readme",
+  "homepage": "https://github.com/hetmann/react-native-epic#readme",
   "dependencies": {
     "immutable": "^3.8.2",
     "node": "^8.3.0",
@@ -31,7 +31,7 @@
     "react": "16.0.0-alpha.12",
     "react-native": "^0.48.4",
     "react-native-calendars": "^1.7.1",
-    "react-native-pathjs-charts": "https://github.com/capitalone/react-native-pathjs-charts",
+    "react-native-pathjs-charts": "^0.0.34",
     "react-native-svg": "^5.4.2",
     "react-native-vector-icons": "^4.4.0"
   },
